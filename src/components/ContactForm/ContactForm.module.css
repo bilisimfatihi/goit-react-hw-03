@@ -1,0 +1,13 @@
+.form {
+    width: 300px;
+}
+
+.contactform {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.warning {
+    color: red;
+}
