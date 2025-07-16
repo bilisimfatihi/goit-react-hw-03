@@ -4,10 +4,15 @@
     border: 1px solid black;
     border-radius: 8px;
     padding: 10px;
+    align-items: center;
 }
 
 .info {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+.card button {
+    height: fit-content;
 }
